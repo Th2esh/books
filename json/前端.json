@@ -1,0 +1,393 @@
+{
+  "图形学": [
+    {
+      "name": "WebGL入门指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/4zaWWgG4i8V",
+          "code": "q9f7"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1fPlW6ZWrbUxz6_6tn117sA",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "Three.js开发指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/QfGxLo8cM9L",
+          "code": "5k5b"
+        }
+      ]
+    }
+  ],
+  "框架": [
+    {
+      "name": "深入react技术栈",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/R5hzkPTz4Cz",
+          "code": "49ay"
+        }
+      ]
+    },
+    {
+      "name": "权威指南Vue.js2",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/bw8yyq2YFrV",
+          "code": "53ui"
+        }
+      ]
+    },
+    {
+      "name": "深入浅出React和Redux",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/q9CfHVp6pw5",
+          "code": "84ah"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1qx0gUdMM801StJp4wS5N8A",
+          "code": "book"
+        }
+      ],
+      "author": ["程墨"],
+      "spec": ["pdf"]
+    }
+  ],
+  "构建工具": [
+    {
+      "name": "Web前端自动化构建：Gulp、Bower和Yeoman开发指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/DtNsHE24TQM",
+          "code": "hg82"
+        }
+      ]
+    },
+    {
+      "name": "深入浅出 Webpack",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/aSGq7fsq3eU",
+          "code": "dt89"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1A7_3ss7po6Ws3fOfdN4NYQ",
+          "code": "book"
+        }
+      ]
+    }
+  ],
+  "HTML": [
+    {
+      "name": "HTML5揭秘",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/KXtx6YaZ69K",
+          "code": "wu75"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1xF0dgn4G-9sCChNb64wD4w",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "HTML5移动Web开发指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/wBSdt2iern9",
+          "code": "w2w8"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1AKfTOV8z169Bjjq0pz1R7w",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "HTML5与CSS3权威指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/8mM3mJmD2hV",
+          "code": "5w1z"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1N7KvfKp9Kzs_gqeVqbhU6Q",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "渐进增强的Web设计",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/27FDtYJtegW",
+          "code": "v4a7"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1T-tSrHGjJu4hVKT0dRb9fA",
+          "code": "book"
+        }
+      ]
+    }
+  ],
+  "CSS": [
+    {
+      "name": "CSS揭秘",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/AzzvwPbybNn",
+          "code": "21vz"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1OWqq5tBmepzqrKLnwUZ3YQ",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "CSS3实战",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/7yQ66ji6vXv",
+          "code": "90ln"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1ZJFfGa9ocfM3c8V_snVsUQ",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "CSS世界",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/2LMxQijoYet",
+          "code": "60vf"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1dz8F4Jgaqp39_faws0sIMA",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf", "epub", "mobi"]
+    },
+    {
+      "name": "CSS权威指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/Jz9C6BxFgsR",
+          "code": "7pt0"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/15a1TNqKQBv9OtlMaTJkmmg",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "CSS那些事儿",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/t7VzUHQHpDQ",
+          "code": "27de"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1PMkZC2948Cc4DB-4xhoQrA",
+          "code": "book"
+        }
+      ]
+    }
+  ],
+  "Javascript": [
+    {
+      "name": "单页Web应用：JavaScript从前端到后端",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/F2NF4RfRXKD",
+          "code": "9m4y"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1pC1sU5poNoBEalXZqWQPfw",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "全栈应用开发：精益实践",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/cEbFRiEWBXN",
+          "code": "gt61"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1os8iR6OkEuvodfxA_Ks7DQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "疯狂HTML5+CSS3+JavaScript讲义",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/Y5We1ACoaM9",
+          "code": "i69d"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1SqW_I4_aBBe3cNojmX-SqQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    }
+  ],
+  "其他": [
+    {
+      "name": "现代前端技术解析",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/6EcLcDvGqrP",
+          "code": "64ku"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/现代前端技术解析.mobi"
+        }
+      ]
+    },
+    {
+      "name": "现代前端技术解析2019",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/cqyL2EjNkQE",
+          "code": "16ox"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/18n2-h_goCQtsxIlh46NcQQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "前端面试江湖",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/t6bP8Xi5t1w",
+          "code": "t4t3"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/前端面试江湖.mobi"
+        }
+      ]
+    },
+    {
+      "name": "构建高性能WEB站点",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/VQr43dRHJxS",
+          "code": "44iv"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1YLqFVE8OqndX6oB2qr96dg",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "精通D3.js交互式数据可视化高级编程",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/u7nYeAT2hgm",
+          "code": "8s4a"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/10LPCwZntJxMMACtJ4FN3hw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "Web前端开发最佳实践",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/BrcHAkjWxpU",
+          "code": "1w5x"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1_8hkXHRNfYKmpUV34rzoXg",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "Web 前端黑客技术揭秘",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1TJA4M-fFCdkby-n3LKZQTA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/7Qp7okknhH2",
+          "code": "12tl"
+        }
+      ],
+      "spec": ["pdf"]
+    }
+  ]
+}

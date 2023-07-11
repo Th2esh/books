@@ -1,0 +1,137 @@
+{
+  "敏捷开发": [
+    {
+      "name": "高效程序员的45个习惯：敏捷开发修炼之道",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/bpuUjAsR1cW",
+          "code": "0y4j"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1x26RLVeNwZbh31L49fJdUg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf", "epub", "mobi"]
+    },
+    {
+      "name": "敏捷开发的必要技巧",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/6MTfuJU3awz",
+          "code": "9xo7"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1-cN2sX2WHOlpGyGAWii1ew",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "敏捷软件开发：原则、模式与实践",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/NQ8JnsS5x8i",
+          "code": "63wh"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/17fLsnpENkm8Ginu6mh5dhA",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"],
+      "author": ["Robert C. Martin", "邓辉(译)"]
+    }
+  ],
+  "软件测试": [
+    {
+      "name": "软件测试实战(微软技术专家经验总结)",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/BArDtNcV3dJ",
+          "code": "59tv"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1CUfp4Uzs7QGzyZfhjQr9yw",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "测试架构师修炼之道：从测试工程师到测试架构师",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/CpzsGWXgBjN",
+          "code": "ov53"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/12EtjCHOAa875x_M5sWXMUw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf", "epub"]
+    },
+    {
+      "name": "Google软件测试之道",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/QEi9UHLTqfF",
+          "code": "rh91"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1jJzEKEIPgNbTGYz1YSyWAA",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    }
+  ],
+  "其他": [
+    {
+      "name": "软件开发本质论：追求简约、体现价值、逐步构建",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/KJCiuNx8S8N",
+          "code": "8j0y"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1zzzXUPx2jUuXcXT_ChGJGw",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub", "pdf"]
+    },
+    {
+      "name": "简约之美-软件设计之道",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/3PnXMjsqATh",
+          "code": "e3s4"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1Qfntp87yO0dzayFHnCglqQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    }
+  ]
+}

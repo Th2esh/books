@@ -1,10 +1,73 @@
+## 交流
+
+添加小助手微信进入微信交流群
+
+<img width=200 src="https://image.xjq.icu/2023/7/11/1689041043150_books.jpg"/>
+
 ## 必读!!!
 
-[访问地址](https://github.com/xjq7/books.git)
+关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式
 
-1. 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
+其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站, [格式转换工具](https://onlineconvertfree.com/zh/)
 
-2. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,[格式转换](https://onlineconvertfree.com/zh/)
+## books
+
+渐进式拆分中, 首页找不到的移到了文件夹中
+
+<!--insert-books-category-head-->
+
+- [互联网](https://github.com/xjq7/books/tree/master/互联网)
+  - [产品](https://github.com/xjq7/books/tree/master/互联网#产品)
+  - [其他](https://github.com/xjq7/books/tree/master/互联网#其他)
+- [前端](https://github.com/xjq7/books/tree/master/前端)
+  - [图形学](https://github.com/xjq7/books/tree/master/前端#图形学)
+  - [框架](https://github.com/xjq7/books/tree/master/前端#框架)
+  - [构建工具](https://github.com/xjq7/books/tree/master/前端#构建工具)
+  - [HTML](https://github.com/xjq7/books/tree/master/前端#HTML)
+  - [CSS](https://github.com/xjq7/books/tree/master/前端#CSS)
+  - [Javascript](https://github.com/xjq7/books/tree/master/前端#Javascript)
+  - [其他](https://github.com/xjq7/books/tree/master/前端#其他)
+- [数据库](https://github.com/xjq7/books/tree/master/数据库)
+  - [SQL](https://github.com/xjq7/books/tree/master/数据库#SQL)
+  - [HBase](https://github.com/xjq7/books/tree/master/数据库#HBase)
+  - [MySQL](https://github.com/xjq7/books/tree/master/数据库#MySQL)
+  - [Redis](https://github.com/xjq7/books/tree/master/数据库#Redis)
+- [移动开发](https://github.com/xjq7/books/tree/master/移动开发)
+  - [Android](https://github.com/xjq7/books/tree/master/移动开发#Android)
+  - [其他](https://github.com/xjq7/books/tree/master/移动开发#其他)
+- [程序设计](https://github.com/xjq7/books/tree/master/程序设计)
+  - [设计模式](https://github.com/xjq7/books/tree/master/程序设计#设计模式)
+  - [游戏开发](https://github.com/xjq7/books/tree/master/程序设计#游戏开发)
+- [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
+  - [C](https://github.com/xjq7/books/tree/master/编程语言#C)
+  - [C#](https://github.com/xjq7/books/tree/master/编程语言#C#)
+  - [Java](https://github.com/xjq7/books/tree/master/编程语言#Java)
+  - [Go](https://github.com/xjq7/books/tree/master/编程语言#Go)
+  - [正则表达式](https://github.com/xjq7/books/tree/master/编程语言#正则表达式)
+  - [Nodejs](https://github.com/xjq7/books/tree/master/编程语言#Nodejs)
+  - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
+  - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
+- [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
+  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
+- [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
+  - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
+  - [操作系统](https://github.com/xjq7/books/tree/master/计算机基础#操作系统)
+  - [计算机网络](https://github.com/xjq7/books/tree/master/计算机基础#计算机网络)
+  - [数据结构](https://github.com/xjq7/books/tree/master/计算机基础#数据结构)
+- [软件工程](https://github.com/xjq7/books/tree/master/软件工程)
+  - [敏捷开发](https://github.com/xjq7/books/tree/master/软件工程#敏捷开发)
+  - [软件测试](https://github.com/xjq7/books/tree/master/软件工程#软件测试)
+  - [其他](https://github.com/xjq7/books/tree/master/软件工程#其他)
+
+<!--insert-books-category-end-->
+
+## 参与贡献
+
+1. 提供资源下载方式，例如：网盘，直链下载
+2. 根据分类录入 json 数据，[数据目录](https://github.com/xjq7/books/tree/master/json)
+
+json 数据更新提交至 master 分支后会自动触发 github action 更新主页 README，以及各个子页 README
 
 ## 计算机
 
@@ -20,65 +83,9 @@
 
 - 穿越计算机的迷雾,链接: https://pan.baidu.com/s/1EsDJiR1JOpFSy4s_7aeM6g 提取码: qxg5
 
-### 计算机网络
-
-链接: https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ 提取码: q8pa
-
-- TCP-IP 详解(卷一、二、三)
-
-- 计算机网络(第 7 版) 谢希仁
-
-- 图解 TCPIP
-
-- 计算机网络-自顶向下方法
-
-- HTTP 权威指南,epub,pdf
-
-- 深入理解计算机网络,mobi,epub
-
-### 编译原理
-
-链接: https://pan.baidu.com/s/1pYDZ55OjBo-qkttagmBwRg 提取码: uydj
-
-- 自制编程语言
-
-- 编译原理及实践,pdf
-
-- 现代编译原理,pdf
-
-### 网络安全
-
-链接: https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg 提取码: np54
-
-- 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯
-
-- 深入浅出密码学 常用加密技术原理与应用,pdf
-
-- 白帽子讲 Web 安全,epub,mobi
-
-- 黑客攻防技术宝典 web 实战篇(第 2 版),epub
-
-- [黑客攻防技术宝典-Web 实战篇(第 2 版).mobi](<https://static.xjq.icu/book/黑客攻防技术宝典-Web实战篇(第2版).mobi>)
-
 ### 编程语言
 
 链接: https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug 提取码: 8fsr
-
-#### C
-
-- C Primer Plus
-
-- 嗨翻 C 语言 (图灵程序设计丛书)
-
-- C 程序设计语言,epub
-
-- [C 和指针.epub](https://static.xjq.icu/book/C%20%E5%92%8C%E6%8C%87%E9%92%88.epub)
-
-- C Primer Plus,epub
-
-- C 语言从入门到精通第 2 版,epub
-
-- C 入门经典第 7 版,mobi
 
 #### cpp
 
@@ -105,25 +112,6 @@
 - 深入理解 c11(c11 新特性解析与应用),epub,mobi
 
 - C++反汇编与逆向分析技术揭秘,pdf
-
-#### 汇编
-
-- 汇编语言
-
-#### R
-
-- R 语言编程艺术
-
-#### _C#_
-
-- C#图解教程
-
-  - 第 4 版,pdf
-  - 第 5 版,pdf,(感谢[yiyi chen](https://github.com/1300602123)提供的资源)
-
-- C#高级编程
-
-- C#高级编程(第 7 版)
 
 #### JavaScript
 
@@ -181,48 +169,6 @@
 
 - 超实用的 JavaScript 代码段, mobi
 
-#### Go
-
-- Go 程序设计语言
-
-- Go Web 编程,epub,pdf
-
-- Go 语言核心编程-李文塔
-
-- Go 并发编程实战-第 2 版
-
-- Go 语言程序设计-Mark,pdf
-
-- Go 语言程序设计-王鹏
-
-- Go 源码剖析,pdf
-
-#### Java
-
-- Java 核心技术卷 1 基础知识原书第 10 版,链接: https://pan.baidu.com/s/1EuL_UnR-2KGvtEOQ1r4UXQ 提取码: wi69
-
-- Java 核心技术 卷 2 高级特性 原书第 10 版,链接: https://pan.baidu.com/s/1CbnQbbHcR-NgK6VovisCEw 提取码: q7ib
-
-- Java 编程的逻辑,pdf,链接: https://pan.baidu.com/s/1GfUV4SRQjt3o_hl0BAC4TA 提取码: vaua
-
-- Spring 实战第 4 版,链接: https://pan.baidu.com/s/1AfD9TUqJ3dUlSpkZs8RsFg 提取码: n9ug
-
-- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版),链接: https://pan.baidu.com/s/12hVHItoYp4DmURNG1r6kAg 提取码: xft5
-
-- 重新定义 Spring Cloud 实战,链接: https://pan.baidu.com/s/1ZzsAgMUha5mdRj8yw2xB5A 提取码: hqpr
-
-- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）,epub,链接: https://pan.baidu.com/s/1f6fvIF8XQu2IAzT8E5EBlQ 提取码: t1w8
-
-- 实战 Java 高并发程序设计,epub,链接: https://pan.baidu.com/s/1MrT4Mx09hC2K6aWsqSjdoQ 提取码: xph9
-
-- 自己动手写 Java 虚拟机 (Java 核心技术系列),epub,链接: https://pan.baidu.com/s/1Qzj5Aph169Sag3lxwfe0EA 提取码: vvfp
-
-- Head First Java(第 2 版),pdf,链接: https://pan.baidu.com/s/1ewCL9_MJPi5Mrdj-Nuai4w 提取码: v7xi
-
-- Effective Java,pdf,链接: https://pan.baidu.com/s/13gg1vGuUKnNcHkaR0baROg 提取码: fvig
-
-- Java 编程思想（第 4 版）,pdf,
-
 #### Python
 
 链接: https://pan.baidu.com/s/14E8pMglMh33XJDdv_TXdNg 提取码: ajmm
@@ -277,24 +223,6 @@
 
 - [Hadoop 实战(第 2 版).epub](<https://static.xjq.icu/book/hadoop实战(第2版).epub>)
 
-### 软件工程
-
-链接: https://pan.baidu.com/s/1daYvfhpi7FuxSG5yePV5nw 提取码: ap26
-
-- 简约之美-软件设计之道
-
-- 软件开发本质论：追求简约、体现价值、逐步构建,epub,pdf
-
-### 软件测试
-
-链接: https://pan.baidu.com/s/1_nxHJiCvwk755p49-fPIzw 提取码: f63q
-
-- 软件测试实战(微软技术专家经验总结),epub
-
-- 测试架构师修炼之道：从测试工程师到测试架构师,epub,pdf
-
-- Google 软件测试之道,epub
-
 ### 编程
 
 链接: https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg 提取码: n7ef
@@ -322,8 +250,6 @@
 - 软技能-代码之外的生存指南,epub
 
 - 编写高质量代码之 C#、C- 陆敏技-李健,mobi
-
-- 高效程序员的 45 个习惯：敏捷开发修炼之道,epub
 
 - 代码阅读方法与实践
 
@@ -389,18 +315,6 @@
 
 - 垃圾回收的算法与实现, pdf
 
-### 移动端
-
-链接: https://pan.baidu.com/s/18mcE4Bt0NTUJdXJnjqNavg 提取码: hp61
-
-- 第一行代码：Android,epub
-
-- Android 软件安全与逆向分析,epub
-
-- Android 开发艺术探索,epub
-
-- 音视频开发进阶指南基于 android 与 ios 平台的实践,epub
-
 ### 区块链
 
 链接: https://pan.baidu.com/s/1luuIc7pqq9KdpBMXw5u0sg 提取码: g9g9
@@ -411,105 +325,27 @@
 
 链接: https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg 提取码: f7ni
 
-- 看见未来：改变互联网世界的人们(余晨)
-
 - 文明之光
 
 - 浪潮之巅
 
 - 计算广告,epub,pdf
 
-- 浅薄-互联网如何毒化了我们的大脑,epub
-
 - 这就是搜索引擎核心技术详解,epub
 
 - 黑客与画家,epub
 
-- 腾讯产品法：一本书读懂腾讯产品思维与运营方法,epub
-
 - 淘宝技术这十年,epub,pdf
-
-- 淘宝十年产品事,epub,pdf
 
 - 电商产品经理宝典：电商后台系统产品逻辑全解析, mobi
 
 - IoT 变现：5G 时代物联网新赛道上如何弯道超车, mobi
 
-- 人人都该懂的互联网思维, mobi
-
-- 用户的本质, mobi
-
 - 图解物联网,mobi
-
-### 数据结构
-
-链接: https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ 提取码: bm5a
-
-- [数据结构(C 语言版)(严蔚敏).pdf](<https://static.xjq.icu/book/数据结构(C语言版)(严蔚敏).pdf>)
-
-- [大话数据结构.pdf](https://static.xjq.icu/book/大话数据结构.pdf)
-
-- 数据结构与抽象 Java 语言描述 第 4 版
-
-- 数据结构与算法 Java 版
-
-- 数据结构与算法 Python 语言描述裘宗燕
-
-- [C++数据结构(邓俊辉).pdf](<https://static.xjq.icu/book/C++数据结构(邓俊辉).pdf>)
-
-- 数据结构与算法（第四版）廖明宏
 
 ### 操作系统
 
 链接: https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ 提取码: e575
-
-#### window
-
-- 精解 windows 10,epub
-
-#### Linux
-
-- 循序渐进 Linux-第 2 版-服务器搭建系统
-
-- Linux 内核设计与实现
-
-- Linux Shell 脚本攻略-第 2 版,pdf
-
-- 鸟哥的 LINUX 私房菜-基础学习篇(第三版)
-
-- Linux 运维之道
-
-- Linux 命令详解词典
-
-- 深入 Linux 内核架构
-
-- Linux 就该这么学
-
-- Linux shell 编程从初学到精通
-
-- Linux 程序设计,mobi
-
-- Linux Shell 命令行及脚本编程实例详解,mobi
-
-- Linux 命令行与 shell 脚本编程大全（第 3 版）,mobi,epub
-
-- 理解 Linux 进程,pdf
-
-- 深入理解 Linux 内核,pdf
-
-- Linux 内核文档,pdf
-
-#### UNIX
-
-- UNIX 环境高级编程（第三版）
-
-- UNIX 网络编程卷 1：套接字联网 API(第 3 版)
-
-- UNIX 网络编程卷 2：进程间通信,pdf
-
-- UNIX 编程艺术,pdf
-
-- UNIX 操作系统设计,pdf
 
 #### Docker
 
@@ -537,103 +373,11 @@
 
 - 深入理解 Nginx 模块开发与架构解析,pdf
 
-#### 其他
-
-- 深入理解计算机系统
-
-- 现代操作系统（第 3 版）,epub,pdf
-
-- 操作系统原理第 4 版
-
-- 操作系统简化版
-
-### 设计模式
-
-- 图解设计模式,链接: https://pan.baidu.com/s/14FmZ8aT1T7-eH165l1nqBg 提取码: nqpv
-
-- HeadFirst 设计模式,链接: https://pan.baidu.com/s/13SwIrWi48wkwD8cfjxrJ-g 提取码: d1jb
-
-- 精通 Python 设计模式,链接: https://pan.baidu.com/s/1LHsjqAd1m_IXA2_GFZoC-A 提取码: sxmx
-
-- JavaScript 设计模式,链接: https://pan.baidu.com/s/1tzswZxD3wF3CUsIOF3DawA 提取码: jac5
-
-- 大话设计模式,pdf,链接: https://pan.baidu.com/s/1vK8huqWE2xuAabb00tA4Jg 提取码: 42nr
-
-- 设计模式之禅,pdf,链接: https://pan.baidu.com/s/1cSWU7NT8X7IbaiBle1kfbw 提取码: yi91
-
 ### 前端
 
 链接: https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ 提取码: e17s
 
-- 深入浅出 React 和 Redux-程墨,pdf
-
-- 现代前端技术解析 2019
-
-- [现代前端技术解析.mobi](https://static.xjq.icu/book/现代前端技术解析.mobi)
-
-- 渐进增强的 Web 设计
-
 - Git 权威指南,pdf,epub
-
-- 权威指南 Vue.js2
-
-- 深入浅出 Webpack
-
-- Web 前端自动化构建：Gulp、Bower 和 Yeoman 开发指南
-
-- 构建高性能 WEB 站点
-
-- Web 前端黑客技术揭秘
-
-- [前端面试江湖.mobi](https://static.xjq.icu/book/前端面试江湖.mobi)
-
-- 深入 react 技术栈, mobi
-
-- 精通正则表达式-第三版-美-佛瑞德,pdf
-
-- 疯狂 HTML5+CSS3+JavaScript 讲义,mobi
-
-- Web 前端开发最佳实践, mobi
-
-- 全栈应用开发：精益实践,mobi
-
-- 单页 Web 应用：JavaScript 从前端到后端,pdf
-
-#### 可视化
-
-- 精通 D3.js 交互式数据可视化高级编程,pdf
-
-- WebGL 编程指南,pdf
-
-- Three.js 开发指南-第 2 版,pdf
-
-#### HTML
-
-- HTML5 移动 Web 开发指南-唐俊开
-
-- HTML5 揭秘,pdf
-
-- HTML 5 与 CSS 3 权威指南（第 3 版）,mobi
-
-#### CSS
-
-- CSS 世界-张鑫旭,mobi,pdf,epub
-
-- [CSS 世界.mobi](https://static.xjq.icu/book/CSS世界.mobi)
-
-- CSS 权威指南-第三版
-
-- CSS3 实战
-
-- CSS 那些事儿
-
-- [CSS 揭秘.mobi](https://static.xjq.icu/book/CSS揭秘.mobi)
-
-#### 安全
-
-- [Web 安全开发指南.mobi](https://static.xjq.icu/book/Web安全开发指南.mobi)
-
-- Web 前端黑客技术揭秘,pdf
 
 ### 计算机基础
 
@@ -646,37 +390,6 @@
 - 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版
 
 - 计算的本质：深入剖析程序和计算机,pdf
-
-### 数据库
-
-链接: https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ 提取码: jca6
-
-- 深入理解 MySQL 核心技术（中文）,pdf
-
-- MySQL 技术内幕：SQL 编程-姜承尧
-
-- MySQL 必知必会
-
-- SQL 基础教程
-
-  第一版,pdf
-  第二版,pdf
-
-- HBase 权威指南,epub,pdf
-
-- HBase 不睡觉书
-
-- 高性能 MySQL(第 3 版)
-
-- HBase 实战,epub
-
-- SQL 学习指南,pdf
-
-- Redis 入门指南,pdf
-
-- Redis 开发与运维,pdf
-
-- Redis 实战,pdf
 
 ### 机器学习
 
@@ -733,20 +446,6 @@
 - [人工智能技术.pdf](https://static.xjq.icu/book/人工智能技术.pdf)
 
 - [AI·未来.epub](https://static.xjq.icu/book/AI·未来.epub)
-
-### 游戏开发
-
-- 游戏编程模式,epub
-
-- 游戏设计的 100 个原理,epub
-
-- 游戏设计的 236 个技巧,epub
-
-- 游戏设计快乐之道(第 2 版),epub
-
-- 游戏开发的数学和物理,epub
-
-- 通关！游戏设计之道（第 2 版）,epub,pdf
 
 ## 数学
 
